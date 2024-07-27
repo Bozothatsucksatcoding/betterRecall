@@ -8,4 +8,4 @@ ___
 
 1. **You don't.**
 
-Quick note: MS defender for some reason thinks this is maleware despite it being 100% local only and not going to a server whatsever i don't know what's wrong with it just allow it if you really want too.
+Quick note: MS defender for some reason thinks this is maleware despite it being 100% local only and not going to a server what so ever i don't know what's wrong with it just allow it if you really want too.
