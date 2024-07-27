@@ -7,8 +7,7 @@ import time, os, getpass
 
 slep = time.sleep
 dtn = datetime.now()
-user = getpass.getuser()
-print(f"User: {user}")  
+user = getpass.getuser()  
 p = f"C:\\Users\\{user}\\Desktop\\Computer Snap Screenshots"
 
 #functions
