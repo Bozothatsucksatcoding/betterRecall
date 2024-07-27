@@ -1,0 +1,1 @@
+x=msgbox("Ok, Bye Bye!", 64,"Auto Snap")
